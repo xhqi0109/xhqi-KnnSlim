@@ -1,0 +1,16 @@
+{
+  "ch_sparsity": 0.5,
+  "max_ch_sparsity":1,
+  "round_to": 8,
+  "rho": 5e-3,
+  "admm_epoch": 6,
+  "internal_stage": 3,
+  "init_lr": 0.1,
+  "lr_decay": 0.1,
+  "special_layer_pruning_ratio": {
+  },
+  "exclude_layer_pruning_ratio": [
+  ]
+}
+
+
